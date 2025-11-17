@@ -14,7 +14,7 @@ p, section{
  img{
 
  	/* Automatically resizes the images to fit the window width */
- 	max-width: 750px;
+ 	max-width: 800px;
  	height: auto;
 
  }
