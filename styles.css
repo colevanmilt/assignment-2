@@ -14,11 +14,17 @@ p, section{
  img{
 
  	/* Automatically resizes the images to fit the window width */
- 	max-width: 700px;
+ 	max-width: 750px;
  	height: auto;
-	
-	/* Adds a border */
-	border: solid;
+
+ }
+
+
+ figcaption{
+
+ 	/* Changes font size of caption */
+ 	font-size: 14px;
+
 
  }
 
@@ -104,7 +110,7 @@ figure.banner{
  figcaption.bannerCaption{
 
  	/* Sets the font size for the caption text */
-	font-size: 12px;
+	font-size: 10px;
 	
 	/* Centers the caption text */
 	text-align: right;
